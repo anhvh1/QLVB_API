@@ -1,0 +1,7 @@
+E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.deps.json
+E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.dll
+E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.pdb
+E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.AssemblyInfoInputs.cache
+E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.AssemblyInfo.cs
+E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.dll
+E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.pdb

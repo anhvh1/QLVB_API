@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BaoCao\**" />
+    <Compile Remove="QuanLy\**" />
+    <EmbeddedResource Remove="BaoCao\**" />
+    <EmbeddedResource Remove="QuanLy\**" />
+    <None Remove="BaoCao\**" />
+    <None Remove="QuanLy\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="DanhMuc\DanhMucCapCongTrinhModel.cs" />
+    <Compile Remove="DanhMuc\DanhMucLoaiTaiSanModel.cs" />
+    <Compile Remove="DanhMuc\DanhMucNhomTaiSanModel.cs" />
+    <Compile Remove="DanhMuc\DanhMucTrangThaiModel.cs" />
+    <Compile Remove="HeThong\FileDinhKemModel.cs" />
+    <Compile Remove="QLVB\BienDongTaiSanModel.cs" />
+    <Compile Remove="QLVB\CongKhaiBanKeKhaiModel.cs" />
+    <Compile Remove="QLVB\DotKeKhaiModel.cs" />
+    <Compile Remove="QLVB\DuyetBanKeKhaiModel.cs" />
+    <Compile Remove="QLVB\DuyetCongKhaiBanKeKhaiModel.cs" />
+    <Compile Remove="QLVB\GuiKeKhaiModel.cs" />
+    <Compile Remove="QLVB\KeKhaiModel.cs" />
+    <Compile Remove="QLVB\KeKhaiTaiSanModel.cs" />
+    <Compile Remove="QLVB\KeKhaiThanhNhanModel.cs" />
+    <Compile Remove="QLVB\ThongTinTaiSanLogModel.cs" />
+    <Compile Remove="QLVB\ThongTinTaiSanModel.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+</Project>

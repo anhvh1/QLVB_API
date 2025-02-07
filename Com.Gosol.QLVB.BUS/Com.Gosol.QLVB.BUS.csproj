@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BaoCao\**" />
+    <Compile Remove="QuanLy\**" />
+    <EmbeddedResource Remove="BaoCao\**" />
+    <EmbeddedResource Remove="QuanLy\**" />
+    <None Remove="BaoCao\**" />
+    <None Remove="QuanLy\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="DanhMuc\DanhMucCapCongTrinhBUS.cs" />
+    <Compile Remove="DanhMuc\DanhMucLoaiTaiSanBUS.cs" />
+    <Compile Remove="DanhMuc\DanhMucNhomTaiSanBUS.cs" />
+    <Compile Remove="DanhMuc\DanhMucTrangThaiBUS.cs" />
+    <Compile Remove="HeThong\FileDinhKemBUS.cs" />
+    <Compile Remove="QLVB\CongKhaiBanKeKhaiBUS.cs" />
+    <Compile Remove="QLVB\DotKeKhaiBUS.cs" />
+    <Compile Remove="QLVB\DuyetCongKhaiBanKeKhaiBUS.cs" />
+    <Compile Remove="QLVB\KeKhaiBUS.cs" />
+    <Compile Remove="QLVB\KeKhaiTaiSanBUS.cs" />
+    <Compile Remove="QLVB\KeKhaiThanNhanBUS.cs" />
+    <Compile Remove="QLVB\QuanLyBanKeKhaiBUS.cs" />
+    <Compile Remove="QLVB\ThongTinTaiSanBUS.cs" />
+    <Compile Remove="QLVB\TongHopBanKeKhaiBUS.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Com.Gosol.QLVB.DAL\Com.Gosol.QLVB.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

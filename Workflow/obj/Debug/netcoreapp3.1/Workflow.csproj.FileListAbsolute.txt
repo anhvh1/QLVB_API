@@ -1,0 +1,11 @@
+E:\QLVB\Source\Server\Com.Gosol.QLVB\Workflow\bin\Debug\netcoreapp3.1\Workflow.deps.json
+E:\QLVB\Source\Server\Com.Gosol.QLVB\Workflow\bin\Debug\netcoreapp3.1\Workflow.dll
+E:\QLVB\Source\Server\Com.Gosol.QLVB\Workflow\bin\Debug\netcoreapp3.1\Workflow.pdb
+E:\QLVB\Source\Server\Com.Gosol.QLVB\Workflow\bin\Debug\netcoreapp3.1\Com.Gosol.QLVB.Ultilities.dll
+E:\QLVB\Source\Server\Com.Gosol.QLVB\Workflow\bin\Debug\netcoreapp3.1\Com.Gosol.QLVB.Ultilities.pdb
+E:\QLVB\Source\Server\Com.Gosol.QLVB\Workflow\obj\Debug\netcoreapp3.1\Workflow.csprojAssemblyReference.cache
+E:\QLVB\Source\Server\Com.Gosol.QLVB\Workflow\obj\Debug\netcoreapp3.1\Workflow.AssemblyInfoInputs.cache
+E:\QLVB\Source\Server\Com.Gosol.QLVB\Workflow\obj\Debug\netcoreapp3.1\Workflow.AssemblyInfo.cs
+E:\QLVB\Source\Server\Com.Gosol.QLVB\Workflow\obj\Debug\netcoreapp3.1\Workflow.csproj.CopyComplete
+E:\QLVB\Source\Server\Com.Gosol.QLVB\Workflow\obj\Debug\netcoreapp3.1\Workflow.dll
+E:\QLVB\Source\Server\Com.Gosol.QLVB\Workflow\obj\Debug\netcoreapp3.1\Workflow.pdb
