@@ -1,7 +1,0 @@
-E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.deps.json
-E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.dll
-E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.pdb
-E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.AssemblyInfoInputs.cache
-E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.AssemblyInfo.cs
-E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.dll
-E:\KKTS\Server\Com.Gosol.KKTS_V2\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.pdb
