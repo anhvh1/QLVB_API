@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29306.81
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Gosol.QLVB.Ultilities", "Com.Gosol.QLVB.Ultilities\Com.Gosol.QLVB.Ultilities.csproj", "{742D0F8B-B9BE-404A-BF1E-521581119D50}"
 EndProject
@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Gosol.QLVB.BUS", "Com.G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Gosol.QLVB.API", "Com.Gosol.QLVB.API\Com.Gosol.QLVB.API.csproj", "{46D57A55-1DA3-4AC3-A822-49EF963B721E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workflow", "Workflow\Workflow.csproj", "{D7F09D26-4016-4484-BE5E-9321814D1C40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workflow", "Workflow\Workflow.csproj", "{D7F09D26-4016-4484-BE5E-9321814D1C40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

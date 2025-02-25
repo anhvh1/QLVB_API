@@ -170,7 +170,7 @@ namespace Com.Gosol.QLVB.DAL.DanhMuc
                         }
                     }
                     //check danh mục theo tên
-                    var DanhMucChungByTen = GetByName(DanhMucChungModel.Ten);
+                    var DanhMucChungByTen = GetByName(DanhMucChungModel.Ten, DanhMucChungModel.Nam ?? 0);
                     if (DanhMucChungByTen != null && DanhMucChungByTen.ID > 0 && DanhMucChungByTen.Loai == DanhMucChungModel.Loai)
                     {
                         Result.Status = 0;
@@ -348,7 +348,7 @@ namespace Com.Gosol.QLVB.DAL.DanhMuc
                         if (crObj.Ten.Trim() != DanhMucChungModel.Ten.Trim())
                         {
                             //check danh mục theo tên
-                            var DanhMucChungByTen = GetByName(DanhMucChungModel.Ten);
+                            var DanhMucChungByTen = GetByName(DanhMucChungModel.Ten, DanhMucChungModel.Nam ?? 0);
                             if (DanhMucChungByTen != null && DanhMucChungByTen.ID > 0 && DanhMucChungByTen.Loai == DanhMucChungModel.Loai && DanhMucChungByTen.Ten.Equals(DanhMucChungModel.Ten))
                             {
                                 Result.Status = 0;
